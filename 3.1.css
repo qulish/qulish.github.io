@@ -1,0 +1,15 @@
+.red{
+	font-size:24px;
+	color:red;
+	text-align: center
+}
+.green{
+	font-size:20px;
+	color:green;
+	text-align:left
+}
+.details{
+	text-indent:2em;
+	line-height: 20px;
+	
+}
