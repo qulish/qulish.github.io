@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper{
+	margin: 10px;
+	background: #CCCCCC;
+	border: 2px solid black;
+}
+
+#header{
+	margin: 20px 20px 20px 20px;
+	background: red;
+	border: 2px solid #FFFFFF;
+	padding: 20px;
+	height: 200px;
+	color: yellow;
+}
+
+
+.logo{
+	margin-right: 10px;
+	height: 40px;
+	width: 40%;
+	background: #FFFF00;
+	border: 2px solid black;
+	padding: 10px;
+	float: left;
+	color: gray;
+}
+
+.banner{
+	margin-left: 10px;
+	height: 40px;
+	width: 50%;
+	background: #0000FE;
+	border: 2px solid black;
+	padding: 10px;
+	float: right;
+	color: white;
+}
+
+.menu{
+	margin-top: 100px;
+	height: 40px;
+	background: #023401;
+	border: 2px solid black;
+	padding: 10px;
+	clear: both;
+	color: white;
+}
+
+#main{
+	margin: 10px 20px 20px 20px;
+	background: #016701;
+	border: 2px solid white;
+	padding: 10px;
+	height: 300px;
+	color: white;
+}
+
+.sidebar{
+	margin-right: 5px;
+	height: 220px;
+	width: 35%;
+	background: #0000FE;
+	border: 2px solid white;
+	padding: 10px;
+	float: left;
+	color: white;
+}
+
+.content{
+	margin-left: 5px;
+	height: 220px;
+	width: 60%;
+	background: #00CCFF;
+	border: 2px solid white;
+	padding: 10px;
+	float: right;
+	color: white;
+}
+
+#footer{
+	margin: 20px 20px 20px 20px;
+	background: #FE0000;
+	border: 2px solid white;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+}
