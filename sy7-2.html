@@ -1,0 +1,19 @@
+<html>
+<head>
+<script>
+function turnOn() {
+  document.getElementById("light").src = "./2.png";
+}
+function turnOff() {
+  document.getElementById("light").src = "./1.png";
+}
+</script>
+</head>
+
+<body>
+<img id="light" src="./1.png">
+<br>
+<button onclick="turnOn()">开灯</button>
+<button onclick="turnOff()">关灯</button>
+</body>
+</html>
